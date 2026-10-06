@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>UPRAK INFORMATIKA</title>
+        <link rel="stylesheet" href="style.css"
+    </head
+    <body>
+    <h1 class="title">KEJAR 1</hi>
+    <h2>Anggota
+    <p>1. Sultan</p>
+    <p>2. Raffan</p>
+    <p>3. Revan</p>
+    <p>4. Iksan</p>
+    <p>5. Heriyawan</p>
+    <p>6. Raditya</p>
+    </h2>
+    </body>
+</html>
